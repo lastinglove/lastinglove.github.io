@@ -1,6 +1,6 @@
 .jumbotron{
     background: url(../im/hh_banner.jpg) repeat center center;
 }
-h2,h3,body {
+h2,h3,h4,body {
 	font-family: 'Bitter', serif;
 }
